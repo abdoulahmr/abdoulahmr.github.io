@@ -10878,7 +10878,7 @@ section {
   color: #212529;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #6c757d;
+  color: #008080;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
   color: #2937f0;
@@ -10946,7 +10946,7 @@ section {
 section.cta {
   position: relative;
   padding: 15rem 0;
-  background-image: url("https://source.unsplash.com/5g41N3uRPf8/1500x800");
+  background-image: url("../assets/img/pexels-cottonbro-7019222.jpg");
   background-position: center;
   background-size: cover;
 }
