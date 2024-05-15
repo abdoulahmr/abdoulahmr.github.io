@@ -272,6 +272,7 @@ pre {
   margin-bottom: 1rem;
   overflow: auto;
   font-size: 0.875em;
+  text-align: right;
 }
 pre code {
   font-size: inherit;
@@ -8080,6 +8081,7 @@ textarea.form-control-lg {
 }
 
 .text-white {
+  text-align: right;
   --bs-text-opacity: 1;
   color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
 }
